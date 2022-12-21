@@ -13,6 +13,9 @@ public class Demo {
 		System.out.println("come to gc 10");
 		System.out.println("i have did some changes in my program");
 		System.out.println("new updates at 11.40");
+		
+		System.out.println("new updates at 11.25");
+		
 
 	}
 
