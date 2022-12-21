@@ -8,6 +8,7 @@ public class Demo {
 	public static void test1() {
 		System.out.println("welcome to Test yantra");
 		System.out.println("come to gc 10");
+		System.out.println("i have did some changes in my program");
 
 	}
 
